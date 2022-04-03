@@ -2,15 +2,15 @@
 
 
 # Introduction
-    The Phone book project  in C is a consoled based application created using c programming language.
+    The Contact_data project  in C is a consoled based application created using c programming language.
    
 
 # Reasearch
 
 #   Objectives
 
-    This simple Mini Project for Phonebook in C creates an external file to store the user’s data permanently to perform file handling operations. 
-    Phonebook is an extremely straightforward small undertaking in C that can assist you with understanding the fundamental ideas of capacities, record taking care of       and information structure. 
+    This simple Mini Project for Contact_data in C creates an external file to store the user’s data permanently to perform file handling operations. 
+   Contact_data is an extremely straightforward small undertaking in C that can assist you with understanding the fundamental ideas of capacities, record taking care of       and information structure. 
     This application will show you how to include, list, change or alter, look and erase information to/from the record.
    
 #   Benifits
